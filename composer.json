@@ -16,5 +16,5 @@
     },
     "autoload": {
         "files": ["src/NginxUniqid.php"]
-    },
+    }
 }
