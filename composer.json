@@ -1,11 +1,12 @@
 {
     "name": "unalt/nginxnniqid",
+    "type": "library",
     "description": "",
     "keywords": ["Uniqid"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Michael Dowling",
+            "name": "Nicolae",
             "email": "5522730@gmail.com",
             "homepage": "https://github.com/unalt"
         }
