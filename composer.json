@@ -1,0 +1,19 @@
+{
+    "name": "unalt/nginxnniqid",
+    "description": "",
+    "keywords": ["Uniqid"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Dowling",
+            "email": "5522730@gmail.com",
+            "homepage": "https://github.com/unalt"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "files": ["src/NginxUniqid.php"]
+    },
+}
