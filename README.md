@@ -6,7 +6,7 @@ https://stackoverflow.com/a/48384806
 
 you can install run the command.
 
-composer require unalt/nginxuniqid
+```composer require unalt/nginxuniqid```
 
 ```php
 NginxUniqid::encodeUid($hex)
